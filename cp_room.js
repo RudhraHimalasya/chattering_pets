@@ -2,6 +2,7 @@
 const firebaseConfig = {
     apiKey: "AIzaSyD4hH9l3iGdzLFP8WjyTo9CLjthiPR0IMc",
     authDomain: "chattering-pets.firebaseapp.com",
+    databaseURL: "https://chattering-pets-default-rtdb.firebaseio.com",
     projectId: "chattering-pets",
     storageBucket: "chattering-pets.appspot.com",
     messagingSenderId: "448893385780",

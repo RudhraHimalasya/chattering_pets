@@ -14,3 +14,9 @@ height: 300px;
 #username {
     width: 500px !important;
 }
+
+
+.user_tick
+{
+	width:20px;
+}
